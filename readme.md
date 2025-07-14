@@ -206,4 +206,5 @@ MIT License — free to use, fork, and build on 🚀
 > * `CONTRIBUTING.md`
 > * First 5 beginner-friendly issues?
 
-Just say: **"let’s prep the rest"** and I’ll drop them instantly 🚀
+Just say: **"let’s prep the rest"** and I’ll drop them instantly... 🚀
+
