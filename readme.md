@@ -49,7 +49,7 @@ devresume-ai/
 ### 🖥️ Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/devresume-ai.git
+git clone https://github.com/Anasmalik57/devresume-ai.git
 cd devresume-ai
 ```
 
@@ -179,7 +179,7 @@ Yes! Make a PR to `/frontend/src/templates` with a new JSON-based template.
 
 ## 💬 Community & Support
 
-* [GitHub Discussions](https://github.com/your-username/devresume-ai/discussions)
+* [GitHub Discussions](https://github.com/Anasmalik57/devresume-ai/discussions)
 * GSSoC Discord Channel
 * [LinkedIn](https://linkedin.com/in/your-link)
 
